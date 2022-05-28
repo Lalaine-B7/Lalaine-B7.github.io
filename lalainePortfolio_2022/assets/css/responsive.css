@@ -19,11 +19,6 @@
 		height: 500px;
 	}
 
-	.hero img img1{
-		width: 100%;
-  		height: auto;
-	}
-
 	/* SITEMAIN
 	================================================== */
 	/* Modal */
@@ -412,11 +407,18 @@
 		display: block;
 	}
 
+	.hero img img1 {
+		width: 100%;
+		object-fit: cover;
+	}
+
 	/* HERO
 	================================================== */
 	.hero .visible-xxs + .btn {
 		margin-top: 10px;
 	}
+
+
 
 	/* SITEMAIN
 	================================================== */
