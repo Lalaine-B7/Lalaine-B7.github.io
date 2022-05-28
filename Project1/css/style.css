@@ -188,8 +188,8 @@ ul, nav, body, h1, h2, h4, h6, p, figure {
   }
   .tm-person .img-fluid{
     /* border: solid rgba(255, 255, 255, 0.462); */
-    width: 48%;
-    height: 48%;
+    width: 45%;
+    height: 45%;
     box-shadow: #626364;
     border-radius:40px ;
   }
